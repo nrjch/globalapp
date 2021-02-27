@@ -29,6 +29,16 @@ Install below package and software
   First time app will shown react native page
   
   ![image](https://user-images.githubusercontent.com/79181490/109388806-5f0c5680-792f-11eb-89ea-a1fb5bcaa832.png)
+  
+  Shake the mobile and it wil show options
+  
+  ![image](https://user-images.githubusercontent.com/79181490/109388894-d9d57180-792f-11eb-85d5-e6443b4cee68.png)
+
+  
+  
+  click the debugger and debugger will open in browser automatically
+  ![image](https://user-images.githubusercontent.com/79181490/109388881-ca562880-792f-11eb-8489-46f851a1e7d1.png)
+
 
   
   
