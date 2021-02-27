@@ -26,7 +26,7 @@ Install below package and software
   b) open Command prompt and go to above location 
   c) run command sdkmanager --licenses
   
-  First time app will shown react native page
+  First time app will show react native page
   
   ![image](https://user-images.githubusercontent.com/79181490/109388806-5f0c5680-792f-11eb-89ea-a1fb5bcaa832.png)
   
