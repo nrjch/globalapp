@@ -1,6 +1,6 @@
 "# globalapp" 
-****
-Installation ****
+
+**Installation**
 
 Ref: https://reactnative.dev/docs/getting-started
 
@@ -47,8 +47,9 @@ Install below package and software
    ![image](https://user-images.githubusercontent.com/79181490/109392624-31310d00-7943-11eb-98f6-5ff7168c9d27.png)
    3. SDK Tools which is already install in android studio otherwise install from https://developer.android.com/studio/releases/sdk-tools
    4. Provide Path in environment variable
-     a)  C:\Users\<computerusername>\AppData\Local\Android\Sdk\tools
-     b) C:\Users\<computerusername>\AppData\Local\Android\Sdk\platform-tools 
+   
+     **a)** C:\Users\<computerusername>\AppData\Local\Android\Sdk\tools
+     **b)** C:\Users\<computerusername>\AppData\Local\Android\Sdk\platform-tools 
      
    5. Instal expo cli
 
