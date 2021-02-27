@@ -1,6 +1,6 @@
 "# globalapp" 
-**
-Installation **
+****
+Installation ****
 
 Ref: https://reactnative.dev/docs/getting-started
 
@@ -23,7 +23,6 @@ Install below package and software
   e) app will install in mobile and open
   
   ![image](https://user-images.githubusercontent.com/79181490/109393045-98e85780-7945-11eb-89f8-5ba2f142ddc0.png)
-
 
   
   First time app will show react native page
@@ -53,7 +52,8 @@ Install below package and software
      
    5. Instal expo cli
 
-    ![image](https://user-images.githubusercontent.com/79181490/109393451-b9191600-7947-11eb-8a2f-5f491d344c0b.png)   
+  ![image](https://user-images.githubusercontent.com/79181490/109394740-8888aa80-794e-11eb-80a1-84ac99ae676e.png)
+
 
    6.  expo init projectname
     ![image](https://user-images.githubusercontent.com/79181490/109393998-b0760f00-794a-11eb-85ae-2669a0c43087.png)
@@ -63,7 +63,8 @@ Install below package and software
 
    ![image](https://user-images.githubusercontent.com/79181490/109394629-fe404680-794d-11eb-9585-fcb4a54ee44a.png)`
 
-    ![image](https://user-images.githubusercontent.com/79181490/109394684-3ba4d400-794e-11eb-8fde-27e6acc53ecc.png)
+ 
+  ![image](https://user-images.githubusercontent.com/79181490/109394754-9a6a4d80-794e-11eb-8d82-458b357b8226.png)
 
 
 Issue:
