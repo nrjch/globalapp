@@ -53,9 +53,10 @@ Install below package and software
      
    5. Instal expo cli
 
-![image](https://user-images.githubusercontent.com/79181490/109393451-b9191600-7947-11eb-8a2f-5f491d344c0b.png)   
+    ![image](https://user-images.githubusercontent.com/79181490/109393451-b9191600-7947-11eb-8a2f-5f491d344c0b.png)   
 
-6.  expo init projectname
+   6.  expo init projectname
+    ![image](https://user-images.githubusercontent.com/79181490/109393998-b0760f00-794a-11eb-85ae-2669a0c43087.png)
 
 
 
