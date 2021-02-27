@@ -60,6 +60,7 @@ Install below package and software
 
 
 
+
 Issue:
   a) if SDK manager error is coming then go to  C:\Users\<computerusername>\AppData\Local\Android\Sdk\tools\bin 
   b) open Command prompt and go to above location 
