@@ -50,6 +50,13 @@ Install below package and software
    4. Provide Path in environment variable
      a)  C:\Users\<computerusername>\AppData\Local\Android\Sdk\tools
      b) C:\Users\<computerusername>\AppData\Local\Android\Sdk\platform-tools 
+     
+   5. Instal expo cli
+
+![image](https://user-images.githubusercontent.com/79181490/109393451-b9191600-7947-11eb-8a2f-5f491d344c0b.png)   
+
+6.  expo init <projectname>
+
 
 
     Issue:
