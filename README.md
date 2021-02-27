@@ -57,9 +57,13 @@ Install below package and software
 
    6.  expo init projectname
     ![image](https://user-images.githubusercontent.com/79181490/109393998-b0760f00-794a-11eb-85ae-2669a0c43087.png)
+    
+   7. run command in terminal : expo start
+   8. It will open browser and dircly click no link where you have to run app
 
+   ![image](https://user-images.githubusercontent.com/79181490/109394629-fe404680-794d-11eb-9585-fcb4a54ee44a.png)`
 
-
+    ![image](https://user-images.githubusercontent.com/79181490/109394684-3ba4d400-794e-11eb-8fde-27e6acc53ecc.png)
 
 
 Issue:
