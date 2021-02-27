@@ -24,7 +24,12 @@ Install below package and software
   Issue:
   a) if SDK manager error is coming then go to  C:\Users\<computerusername>\AppData\Local\Android\Sdk\tools\bin 
   b) open Command prompt and go to above location 
-  c) run sdkmanager --licenses
+  c) run command sdkmanager --licenses
+  
+  First time app will shown react native page
+  
+  ![image](https://user-images.githubusercontent.com/79181490/109388806-5f0c5680-792f-11eb-89ea-a1fb5bcaa832.png)
+
   
   
     
