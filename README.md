@@ -5,11 +5,14 @@
 Ref: https://reactnative.dev/docs/getting-started
 
 Install below package and software
-1. NPM : https://nodejs.org/en/download/ download  current version
-2. JDK 1.8 and set path in environment variable
-3. Android Studio : https://developer.android.com/studio
-4. Open SDK manager : C:\Users\<computerusername>\AppData\Local\Android\Sdk
-5. Provide Path in environment variable
+1. NPM : https://nodejs.org/en/download/current/ download  current version
+
+![image](https://user-images.githubusercontent.com/79181490/109410245-02f11300-79bf-11eb-8998-b29efe2930ec.png)
+
+3. JDK 1.8 and set path in environment variable
+4. Android Studio : https://developer.android.com/studio
+5. Open SDK manager : C:\Users\<computerusername>\AppData\Local\Android\Sdk
+6. Provide Path in environment variable
   a)  C:\Users\<computerusername>\AppData\Local\Android\Sdk\tools
   b) C:\Users\<computerusername>\AppData\Local\Android\Sdk\platform-tools
   c) run adb --version command in command prompt
